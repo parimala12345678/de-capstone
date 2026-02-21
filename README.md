@@ -9,7 +9,6 @@ The dataset contains:
 - pickup_time
 - dropoff_time
 - fare
-
 ## ETL Process
 
 ### Extract
